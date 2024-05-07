@@ -25,4 +25,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: tylerstrel/portfolio:portfolio
+        tags: tylerstrel/portfolio:reverse
